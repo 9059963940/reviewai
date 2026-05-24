@@ -26,6 +26,12 @@ TypeScript
 APIs Used
 GitHub REST API
 DeepSeek / OpenRouter LLM API
+
+
+
+
+
+
 📁 Project Structure
 reviewai/
 │
